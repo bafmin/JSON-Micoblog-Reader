@@ -1,12 +1,13 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Appcelerator Titanium Mobile Project
+JSON Microblog Reader
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+This is an example project showing how to use
+JSON to read twitter post for a given Twitter Username
 
 
 
 ----------------------------------
-Stuff our legal folk make us say:
+Stuff Appcelerator's legal folk want said:
 
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
