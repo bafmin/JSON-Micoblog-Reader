@@ -1,3 +1,10 @@
+/*
+
+	Credit: Axit Patel
+	URL: http://mobile.tutsplus.com/tutorials/appcelerator/appcelerator-using-json-to-build-a-twitter-client/
+
+*/
+
 // Creates a tab group with Titanium.UI API.
 var tabGroup = Titanium.UI.createTabGroup();
 
